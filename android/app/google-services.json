@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "369033140485",
+    "firebase_url": "https://mobile-dev-c981c.firebaseio.com",
+    "project_id": "mobile-dev-c981c",
+    "storage_bucket": "mobile-dev-c981c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369033140485:android:88b5f9cf864b6c4d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_assignment_03"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369033140485-3qh98j5lj6k7b0t7h0qvc6g311o8mod6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdwao2hP1xokoCzoj0c5ZvgVzOMGEn6_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369033140485-3qh98j5lj6k7b0t7h0qvc6g311o8mod6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369033140485:android:506332c4f9114529",
+        "android_client_info": {
+          "package_name": "com.example.labi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369033140485-3qh98j5lj6k7b0t7h0qvc6g311o8mod6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdwao2hP1xokoCzoj0c5ZvgVzOMGEn6_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369033140485-3qh98j5lj6k7b0t7h0qvc6g311o8mod6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
